@@ -19,7 +19,7 @@ resolvers += Resolver.sonatypeRepo("snapshots") // for tensorflow
 
 libraryDependencies ++=
   Seq(
-    "ch.qos.logback" % "logback-classic" % "1.1.7",
+    "ch.qos.logback" % "logback-classic" % "1.4.5",
     "com.typesafe" % "config" % "1.2.1",
     "com.typesafe.scala-logging" %% "scala-logging" % "3.5.0",
 
